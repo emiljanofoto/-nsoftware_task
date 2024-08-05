@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="CalDAV Client">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file:///Applications/IPWorks 2024 Java Edition/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/CalDAV Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/CardDAV Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/Certificate Manager" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/DNS Query" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/FTP Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/GET URL" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/HTML Mailer" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/IMAP Email Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/LDAP Search" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/MX Query" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/OAuth" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/POP Email Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/RSS Aggregator" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/Resolve IP" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/S3" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/SMPP Text Message" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/SMTP" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/Syslog Server" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/TCP Echo Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/TCP Echo Server" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/TFTP Server" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/Time Synchronization" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/UDP Echo Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/UDP Echo Server" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/WebDAV Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/WebSocket Client" />
+      <root url="file:///Applications/IPWorks 2024 Java Edition/demos/WebSocket Server" />
+    </SOURCES>
+  </library>
+</component>

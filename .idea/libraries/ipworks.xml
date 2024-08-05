@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ipworks">
+    <CLASSES>
+      <root url="jar:///Applications/IPWorks 2024 Java Edition/lib/ipworks.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///Applications/IPWorks 2024 Java Edition/lib/ipworks.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
